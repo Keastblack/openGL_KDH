@@ -92,7 +92,7 @@
     <ClInclude Include="ase.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basis_test.cpp" />
+    <ClCompile Include="basic_test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
