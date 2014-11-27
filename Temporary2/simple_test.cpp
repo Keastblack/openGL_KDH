@@ -1,30 +1,13 @@
-#include <GL/glut.h>
-#include <GL/gl.h>
-#include <GL/glu.h>
+#include <iostream>
+#include <math.h>
 
-void MyDisplay(){
-	drawHead();
-	glFlush();
-}
-void MyKeyboard(unsigned char KeyPressed,int x,int y){
-	switch (KeyPressed){
-		case 'q':
-			exit(0);
-			break;
-	}
-}
+#define PI 3.14
 
-int main(int argc, char** argv){
-	glutInit(&argc, argv);
-//	glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
-	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA | GLUT_DEPTH);
-	glutInitWindowSize(800, 800);
-	glutInitWindowPosition(0, 0);
-	glutCreateWindow("Simple");
+using namespace std;
 
-	glutKeyboardFunc(MyKeyboard); //키보드 콜백
-	glutDisplayFunc(MyDisplay);
-	glutMainLoop();
 
-	return 0;
+void main(void){
+	float a=30;
+	if(a%30.0==0.0)
+		cout<<"yes"<<endl;
 }
