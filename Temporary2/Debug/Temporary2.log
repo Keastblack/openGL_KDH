@@ -1,20 +1,14 @@
-﻿빌드 시작: 2014-11-28 오전 12:09:28
+﻿빌드 시작: 2014-12-01 오전 2:37:11
      1>2 노드의 "C:\Users\kdh\Documents\GitHub\openGL_KDH\Temporary2\Temporary2.vcxproj" 프로젝트(build 대상)입니다.
      1>InitializeBuildStatus:
          "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Temporary2.unsuccessfulbuild"을(를) 만들고 있습니다.
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt simple_test.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt simple_test.cpp
          simple_test.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\Temporary2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Temporary2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\Temporary2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\Temporary2.lib" /MACHINE:X86 Debug\simple_test.obj
-         Temporary2.vcxproj -> C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\Temporary2.exe
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\Temporary2.exe.manifest" /manifest Debug\Temporary2.exe.intermediate.manifest
-       FinalizeBuildStatus:
-         "Debug\Temporary2.unsuccessfulbuild" 파일을 삭제하고 있습니다.
-         "Debug\Temporary2.lastbuildstate"에 연결(touching)하고 있습니다.
-     1>"C:\Users\kdh\Documents\GitHub\openGL_KDH\Temporary2\Temporary2.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+     1>c:\users\kdh\documents\github\opengl_kdh\temporary2\simple_test.cpp(12): error C2296: '%' : 왼쪽 피연산자 형식으로 'float'을(를) 사용할 수 없습니다.
+     1>c:\users\kdh\documents\github\opengl_kdh\temporary2\simple_test.cpp(12): error C2297: '%' : 오른쪽 피연산자 형식으로 'double'을(를) 사용할 수 없습니다.
+     1>"C:\Users\kdh\Documents\GitHub\openGL_KDH\Temporary2\Temporary2.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
 
-빌드했습니다.
+빌드하지 못했습니다.
 
-경과 시간: 00:00:00.91
+경과 시간: 00:00:00.56
