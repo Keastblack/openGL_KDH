@@ -1,0 +1,51 @@
+﻿빌드 시작: 2014-12-16 오후 9:52:24
+     1>2 노드의 "C:\Users\yoonsu\Documents\GitHub\openGL_KDH\CG_TermProject_2010136019\CG_TermProject_2010136019.vcxproj" 프로젝트(build 대상)입니다.
+     1>PrepareForBuild:
+         "C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CG_TermProject_2010136019.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 2010136019_TP_main.cpp
+         2010136019_TP_main.cpp
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(85): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(89): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(93): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(98): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(104): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(124): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(133): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(141): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\ase_mod.h(146): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\2010136019_tp_main.cpp(1020): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\cg_termproject_2010136019\2010136019_tp_main.cpp(1021): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CG_TermProject_2010136019.exe.embed.manifest.res" Debug\CG_TermProject_2010136019_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\CG_TermProject_2010136019.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CG_TermProject_2010136019.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\CG_TermProject_2010136019.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\CG_TermProject_2010136019.lib" /MACHINE:X86 Debug\CG_TermProject_2010136019.exe.embed.manifest.res
+         Debug\2010136019_TP_main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CG_TermProject_2010136019.exe.embed.manifest" /manifest Debug\CG_TermProject_2010136019.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CG_TermProject_2010136019.exe.embed.manifest.res" Debug\CG_TermProject_2010136019_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\CG_TermProject_2010136019.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CG_TermProject_2010136019.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\CG_TermProject_2010136019.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\CG_TermProject_2010136019.lib" /MACHINE:X86 Debug\CG_TermProject_2010136019.exe.embed.manifest.res
+         Debug\2010136019_TP_main.obj
+         CG_TermProject_2010136019.vcxproj -> C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\CG_TermProject_2010136019.exe
+       FinalizeBuildStatus:
+         "Debug\CG_TermProject_2010136019.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\CG_TermProject_2010136019.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\CG_TermProject_2010136019\CG_TermProject_2010136019.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.20

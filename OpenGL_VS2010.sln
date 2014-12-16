@@ -27,6 +27,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Temporary2", "Temporary2\Te
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASE 모델 불러오기", "ASE 모델 불러오기\ASE 모델 불러오기.vcxproj", "{7C6F5E55-7F4A-464D-9203-E23596F91071}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CG Term Project_2010136019", "CG Term Project_2010136019\CG Term Project_2010136019.vcxproj", "{5B229100-2DB0-4CDD-96B5-3E841DA4EB1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CG_TermProject_2010136019", "CG_TermProject_2010136019\CG_TermProject_2010136019.vcxproj", "{8AA629ED-1AE7-464A-AD30-550B0B954D09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -85,6 +89,14 @@ Global
 		{7C6F5E55-7F4A-464D-9203-E23596F91071}.Debug|Win32.Build.0 = Debug|Win32
 		{7C6F5E55-7F4A-464D-9203-E23596F91071}.Release|Win32.ActiveCfg = Release|Win32
 		{7C6F5E55-7F4A-464D-9203-E23596F91071}.Release|Win32.Build.0 = Release|Win32
+		{5B229100-2DB0-4CDD-96B5-3E841DA4EB1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B229100-2DB0-4CDD-96B5-3E841DA4EB1E}.Debug|Win32.Build.0 = Debug|Win32
+		{5B229100-2DB0-4CDD-96B5-3E841DA4EB1E}.Release|Win32.ActiveCfg = Release|Win32
+		{5B229100-2DB0-4CDD-96B5-3E841DA4EB1E}.Release|Win32.Build.0 = Release|Win32
+		{8AA629ED-1AE7-464A-AD30-550B0B954D09}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8AA629ED-1AE7-464A-AD30-550B0B954D09}.Debug|Win32.Build.0 = Debug|Win32
+		{8AA629ED-1AE7-464A-AD30-550B0B954D09}.Release|Win32.ActiveCfg = Release|Win32
+		{8AA629ED-1AE7-464A-AD30-550B0B954D09}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

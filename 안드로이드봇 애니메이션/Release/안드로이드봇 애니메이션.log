@@ -1,0 +1,21 @@
+﻿빌드 시작: 2014-12-10 오후 5:58:56
+     1>2 노드의 "C:\Users\yoonsu\Documents\GitHub\openGL_KDH\안드로이드봇 애니메이션\안드로이드봇 애니메이션.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\안드로이드봇 애니메이션.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\안드로이드봇 애니메이션.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\안드로이드봇 애니메이션.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\안드로이드봇 애니메이션.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\안드로이드봇 애니메이션.lib" /MACHINE:X86 Release\RobotAnimation.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         안드로이드봇 애니메이션.vcxproj -> C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\안드로이드봇 애니메이션.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\안드로이드봇 애니메이션.exe;#1" /manifest "Release\안드로이드봇 애니메이션.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         "Release\안드로이드봇 애니메이션.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\안드로이드봇 애니메이션.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\안드로이드봇 애니메이션\안드로이드봇 애니메이션.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.38

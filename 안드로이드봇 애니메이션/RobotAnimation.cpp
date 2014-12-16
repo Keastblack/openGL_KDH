@@ -351,7 +351,10 @@ void DrawAndroid(){
 로봇이 달리면서 상,하,좌,우로 움직이는 모습을 표현했다.
 */
 void Run(){
-	//sndPlaySound(TEXT("C:\\sample1.wav"),SND_ASYNC|SND_NOSTOP); 
+//	sndPlaySound(TEXT("C:\\sample1.wav"),SND_ASYNC|SND_NOSTOP);
+//	sndPlaySound(TEXT("C:\\no happy.wav"), SND_ASYNC|SND_NOSTOP);
+//	sndPlaySound(TEXT("C:\\folder\\hit_block.wav"), SND_ASYNC|SND_NOSTOP);
+	sndPlaySound(TEXT("C:\\folder\\hit_block.wav"), SND_FILENAME|SND_ASYNC);
 	glLoadIdentity();//CTM 초기화
 	/*
 	기본적인 로봇의 움직임의 가속도는 sin() 함수를 통해 표현하였다

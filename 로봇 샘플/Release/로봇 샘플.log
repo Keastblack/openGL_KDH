@@ -1,0 +1,46 @@
+﻿빌드 시작: 2014-12-05 오전 5:55:42
+     1>5 노드의 "C:\Users\yoonsu\Documents\GitHub\openGL_KDH\로봇 샘플\로봇 샘플.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\로봇 샘플.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ex7.cpp
+         ex7.cpp
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(80): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(84): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(88): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(93): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(99): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(119): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(128): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(136): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\로봇 샘플\ase.h(141): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>ex7.cpp(255): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>ex7.cpp(256): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\로봇 샘플.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\로봇 샘플.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\로봇 샘플.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\로봇 샘플.lib" /MACHINE:X86 Release\ex7.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         로봇 샘플.vcxproj -> C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\로봇 샘플.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Release\로봇 샘플.exe;#1" /manifest "Release\로봇 샘플.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         "Release\로봇 샘플.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\로봇 샘플.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\로봇 샘플\로봇 샘플.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.38

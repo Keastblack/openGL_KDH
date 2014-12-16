@@ -75,10 +75,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="ase.h" />
+    <ClCompile Include="import_model.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="import_model.cpp" />
+    <ClInclude Include="ase_수정.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

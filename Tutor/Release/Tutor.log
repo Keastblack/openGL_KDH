@@ -1,0 +1,13 @@
+﻿빌드 시작: 2014-12-05 오전 5:55:41
+     1>6 노드의 "C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Tutor\Tutor.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\Tutor.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\Desktop\tutors-win32\projection.c"
+         projection.c
+     1>c1 : fatal error C1083: 소스 파일을 열 수 없습니다. '..\..\..\Desktop\tutors-win32\projection.c': No such file or directory
+     1>"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Tutor\Tutor.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.22

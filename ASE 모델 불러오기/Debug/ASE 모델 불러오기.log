@@ -1,40 +1,42 @@
-﻿빌드 시작: 2014-11-27 오후 11:25:04
-     1>2 노드의 "C:\Users\kdh\Documents\GitHub\openGL_KDH\ASE 모델 불러오기\ASE 모델 불러오기.vcxproj" 프로젝트(build 대상)입니다.
+﻿빌드 시작: 2014-12-09 오후 11:15:36
+     1>2 노드의 "C:\Users\yoonsu\Documents\GitHub\openGL_KDH\ASE 모델 불러오기\ASE 모델 불러오기.vcxproj" 프로젝트(build 대상)입니다.
      1>InitializeBuildStatus:
          "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\ASE 모델 불러오기.unsuccessfulbuild"을(를) 만들고 있습니다.
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt import_model.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt import_model.cpp
          import_model.cpp
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(80): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(85): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(84): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(89): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(88): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(93): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(93): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(98): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(99): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(104): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(119): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(124): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(128): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(133): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(136): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(141): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
-     1>c:\users\kdh\documents\github\opengl_kdh\ase 모델 불러오기\ase.h(141): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\ase_수정.h(146): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\import_model.cpp(400): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+     1>c:\users\yoonsu\documents\github\opengl_kdh\ase 모델 불러오기\import_model.cpp(401): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ASE 모델 불러오기.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.lib" /MACHINE:X86 Debug\import_model.obj
-         ASE 모델 불러오기.vcxproj -> C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.exe
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ASE 모델 불러오기.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.lib" /MACHINE:X86 Debug\import_model.obj
+         ASE 모델 불러오기.vcxproj -> C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.exe
        Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\kdh\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.exe.manifest" /manifest "Debug\ASE 모델 불러오기.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\Debug\ASE 모델 불러오기.exe.manifest" /manifest "Debug\ASE 모델 불러오기.exe.intermediate.manifest"
        FinalizeBuildStatus:
          "Debug\ASE 모델 불러오기.unsuccessfulbuild" 파일을 삭제하고 있습니다.
          "Debug\ASE 모델 불러오기.lastbuildstate"에 연결(touching)하고 있습니다.
-     1>"C:\Users\kdh\Documents\GitHub\openGL_KDH\ASE 모델 불러오기\ASE 모델 불러오기.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+     1>"C:\Users\yoonsu\Documents\GitHub\openGL_KDH\ASE 모델 불러오기\ASE 모델 불러오기.vcxproj" 프로젝트를 빌드했습니다(build 대상).
 
 빌드했습니다.
 
-경과 시간: 00:00:00.63
+경과 시간: 00:00:00.62
